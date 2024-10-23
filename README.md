@@ -1,6 +1,6 @@
-# Airbnb Clone
+# WanderLust
 
-This project is an Airbnb clone built with modern web technologies. It aims to replicate the core functionalities of the Airbnb platform, including user authentication, property listings, bookings, and reviews.
+This project is an Hotel Listing Website built with modern web technologies. It aims to replicate the core functionalities of the Airbnb platform, including user authentication, property listings, bookings, and reviews.
 
 ## Features
 
